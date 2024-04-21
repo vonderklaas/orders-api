@@ -1,4 +1,4 @@
-module github.com/garbalau-github/orders-api
+module github.com/vonderklaas/orders-api
 
 go 1.20
 
