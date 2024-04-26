@@ -66,7 +66,4 @@ func (a *App) Start(ctx context.Context) error {
 
 		return server.Shutdown(timeout)
 	}
-
-	// Return `nil` for success case
-	return nil
 }
